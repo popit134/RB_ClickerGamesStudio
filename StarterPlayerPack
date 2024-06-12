@@ -1,1 +1,1 @@
-
+local lp = game:GetService("Players").LocalPlayer
